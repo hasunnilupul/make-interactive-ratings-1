@@ -60,5 +60,5 @@
 }
 
 .movie-item-star-icon {
-    @apply h-5 w-5 text-yellow-500;
+    @apply h-5 w-5 text-gray-500 disabled:text-yellow-500;
 }
